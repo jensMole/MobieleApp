@@ -1,0 +1,7 @@
+﻿<resources>
+  <color name="primary">#E00049</color>
+  <color name="primaryDark">#cc0033</color>
+  <color name="accent">#C0E4FF</color>
+  <color name="window_background">#F5F5F5</color>
+  <color name="ListViewSelected">#9FDAF9</color>
+</resources>

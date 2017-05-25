@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="preferExternal" android:versionCode="1" android:versionName="1.0" package="EstimoteBeacons.Droid">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="11" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
+  <application android:label="EstimoteBeacons.Droid" android:theme="@style/MyTheme" android:name="md529930a0bcc09f5190da938ab6321e19b.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:name="md529930a0bcc09f5190da938ab6321e19b.MainActivity" />
+    <activity android:label="Beacons" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md529930a0bcc09f5190da938ab6321e19b.SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="EstimoteBeacons.Droid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.EstimoteBeacons.Droid" />
+      </intent-filter>
+    </receiver>
+    <service android:name="com.estimote.sdk.service.BeaconService" android:exported="false" />
+    <service android:name="com.estimote.sdk.service.BeaconService" android:exported="false" />
+  </application>
+</manifest>

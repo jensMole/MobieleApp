@@ -1,0 +1,363 @@
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.Interface.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll.mdb
+D:\Sven\Desktop\iBeacons\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.mdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.Interface.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll.mdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.mdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.Interface.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.RouteInfoPage.xaml.g.cs
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll.mdb
+D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.mdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.RouteInfoPage.xaml.g.cs
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.Interface.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll.config
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconContentPage.xaml.g.cs
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.pdb
+C:\Users\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.CoreCompileInputs.cache
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.RouteInfoPage.xaml.g.cs
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconContentPage.xaml.g.cs
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.Interface.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll.mdb
+D:\Sven\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.mdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Estimotes.Interface.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Forms.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Prism.Unity.Forms.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Core.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.Linq.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.RouteInfoPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconContentPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
