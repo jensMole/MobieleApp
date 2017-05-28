@@ -22,18 +22,19 @@ namespace EstimoteBeacons.ViewModels
         public MainPageViewModel(INavigationService navigationService, IPageDialogService dialogService, IRestService restService)
         {
             Routes = new ObservableCollection<Route>();
-            
+
             //Methode LoadAndDisplayRoutes wordt uitgevoerd wanneer er op de refresh-knop gedrukt wordt
             RefreshCommand = new DelegateCommand(async () => await LoadAndDisplayRoutes());
 
-            AboutButton = new Command(LoadAboutPage);
-
+            AboutCommand = new DelegateCommand(() => LoadAboutPage());
+          
             this.navigationService = navigationService;
             this.dialogService = dialogService;
             this.restService = restService;
         }
 
         public ICommand RefreshCommand { get; private set; }
+        public ICommand AboutCommand { get; private set; }
         public ICommand AboutButton { get; private set; }
         public ObservableCollection<Route> Routes { get; private set; }
 

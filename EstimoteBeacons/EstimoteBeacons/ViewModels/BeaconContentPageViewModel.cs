@@ -60,6 +60,7 @@ namespace EstimoteBeacons.ViewModels
             ObservableCollection<Content> content = await _restService.GetContentForBeaconInRoute(route_id, beacon_id);
 
             BeaconContent += content[0].Content_Txt;
+            BeaconContent += content[0].Metatype_Sn;
         }
     }
 }

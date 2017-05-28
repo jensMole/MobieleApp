@@ -7,6 +7,6 @@
   <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
         <ActivityIndicator Color="#E11D1D" IsVisible="{Binding Loading}" IsRunning="{Binding Loading}" />
         <Label Text="{Binding Beacons}" />
-        <Button Command="{Binding NextBeaconCommand}"/>
+        <Button Text="Next beacon" Command="{Binding NextBeaconCommand}"/>
     </StackLayout>
 </ContentPage>

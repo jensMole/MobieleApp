@@ -24,9 +24,10 @@ namespace EstimoteBeacons
             Container.RegisterTypeForNavigation<MainPage>();
             Container.RegisterTypeForNavigation<BeaconsPage>();
             Container.RegisterTypeForNavigation<RouteInfoPage>();
-            
-            Container.RegisterType<IRestService, RestService>();
             Container.RegisterTypeForNavigation<BeaconContentPage>();
+            Container.RegisterTypeForNavigation<AboutPage>();
+
+            Container.RegisterType<IRestService, RestService>();
         }
     }
 }
