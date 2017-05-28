@@ -112,8 +112,6 @@ C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debu
 C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MyNavigationPage.xaml.g.cs
 C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
 C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
-C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll.mdb
-C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.mdb
 D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
 D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
 D:\Sven\Desktop\iBeacons Jens\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
@@ -361,3 +359,9 @@ C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Deb
 C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
 C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
 C:\Users\jensie\Desktop\EstimoteBeaconsn\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.dll
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.pdb
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\bin\Debug\Mono.Android.xml
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.RouteInfoPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconContentPage.xaml.g.cs
+C:\Users\jensie\Desktop\EstimoteBeacons\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.AboutPage.xaml.g.cs

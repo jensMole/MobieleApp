@@ -9,6 +9,7 @@ using System.Collections.ObjectModel;
 using System.Net;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace EstimoteBeacons.ViewModels
 {
@@ -25,12 +26,15 @@ namespace EstimoteBeacons.ViewModels
             //Methode LoadAndDisplayRoutes wordt uitgevoerd wanneer er op de refresh-knop gedrukt wordt
             RefreshCommand = new DelegateCommand(async () => await LoadAndDisplayRoutes());
 
+            AboutButton = new Command(LoadAboutPage);
+
             this.navigationService = navigationService;
             this.dialogService = dialogService;
             this.restService = restService;
         }
 
         public ICommand RefreshCommand { get; private set; }
+        public ICommand AboutButton { get; private set; }
         public ObservableCollection<Route> Routes { get; private set; }
 
         private Route selectedRoute;
@@ -71,6 +75,11 @@ namespace EstimoteBeacons.ViewModels
         public async void OnNavigatedTo(NavigationParameters parameters)
         {
             await LoadAndDisplayRoutes();
+        }
+
+        private async void LoadAboutPage()
+        {
+            await navigationService.NavigateAsync("AboutPage");
         }
 
         private async Task LoadAndDisplayRoutes()

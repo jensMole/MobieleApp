@@ -11,8 +11,7 @@
 namespace EstimoteBeacons {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\jensie\\Desktop\\EstimoteBeaconsn\\EstimoteBeacons\\EstimoteBeacons\\App.xaml" +
-        "")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\jensie\\Desktop\\EstimoteBeacons\\EstimoteBeacons\\EstimoteBeacons\\App.xaml")]
     public partial class App : global::Prism.Unity.PrismApplication {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
