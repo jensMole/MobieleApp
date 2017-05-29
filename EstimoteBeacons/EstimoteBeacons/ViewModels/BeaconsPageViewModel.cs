@@ -37,7 +37,7 @@ namespace EstimoteBeacons.ViewModels
             if (App.currentSequenceNumber < beaconsInCurrentRoute.Count - 1)
             {
                 App.currentSequenceNumber++;
-                Beacons = "Looking for beacon: " + beaconsInCurrentRoute[App.currentSequenceNumber].Beacon_Id;
+                Beacons = "Go to beacon: " + beaconsInCurrentRoute[App.currentSequenceNumber].Beacon_Id;
             }
             else
             {
@@ -110,7 +110,7 @@ namespace EstimoteBeacons.ViewModels
                             return;
                         }
                         Beacons = "";
-                        Beacons = "Looking for beacon: " + beaconsInCurrentRoute[App.currentSequenceNumber].Beacon_Id;
+                        Beacons = "Ga naar: " + beaconsInCurrentRoute[App.currentSequenceNumber].Location_Ln;
                         // Als bluetooth aan staat beginnen we met scannen naar beacons
                         EstimoteManager.Instance.Ranged += OnRanged;
                         EstimoteManager.Instance.StartRanging(new BeaconRegion("estimote", "B9407F30-F5F8-466E-AFF9-25556B57FE6D"));

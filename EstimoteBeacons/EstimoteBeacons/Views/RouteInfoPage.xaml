@@ -7,7 +7,7 @@
              Title="{Binding Route_Id, StringFormat='Route {0:F0}'}">
   
   <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-    <Label Text="{Binding Route_Info, StringFormat='Welkom bij {0:F0}'}" />
+    <Label Text="{Binding Route_Info, StringFormat='Welkom bij de route: {0:F0}'}" />
     <Button Text="START" Command="{Binding StartCommand}"/>
   </StackLayout>
 
