@@ -31,6 +31,5 @@ namespace EstimoteBeacons.Models
             get { return content_txt; }
             set { content_txt = value; }
         }
-
     }
 }

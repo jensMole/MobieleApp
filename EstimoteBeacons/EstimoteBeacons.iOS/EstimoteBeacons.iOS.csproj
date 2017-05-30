@@ -150,6 +150,12 @@
       <HintPath>..\..\packages\Newtonsoft.Json.8.0.2\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Octane.Xam.VideoPlayer, Version=1.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Octane.Xam.VideoPlayer.1.2.3.0\lib\Xamarin.iOS10\Octane.Xam.VideoPlayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Octane.Xam.VideoPlayer.iOS, Version=1.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Octane.Xam.VideoPlayer.1.2.3.0\lib\Xamarin.iOS10\Octane.Xam.VideoPlayer.iOS.dll</HintPath>
+    </Reference>
     <Reference Include="Plugin.Permissions, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Plugin.Permissions.1.2.1\lib\Xamarin.iOS10\Plugin.Permissions.dll</HintPath>
       <Private>True</Private>

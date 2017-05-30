@@ -10,8 +10,9 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
   <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
-  <application android:label="EstimoteBeacons.Droid" android:theme="@style/MyTheme" android:name="md529930a0bcc09f5190da938ab6321e19b.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:hardwareAccelerated="true" android:label="EstimoteBeacons.Droid" android:theme="@style/MyTheme" android:name="md529930a0bcc09f5190da938ab6321e19b.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:name="md529930a0bcc09f5190da938ab6321e19b.MainActivity" />
     <activity android:label="Beacons" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md529930a0bcc09f5190da938ab6321e19b.SplashActivity">
       <intent-filter>

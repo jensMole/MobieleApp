@@ -7,6 +7,7 @@ using Prism.Services;
 using System;
 using System.Collections.ObjectModel;
 using System.Net;
+using System.Net.Http;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
@@ -99,6 +100,10 @@ namespace EstimoteBeacons.ViewModels
                         Routes.Add(r);
                     }
                 //}
+            }
+            catch (HttpRequestException)
+            {
+                await dialogService.DisplayAlertAsync("Geen internetverbinding.", "Sluit de app volledig af en zorg voor een werkende internetverbinding.", "OK");
             }
             catch (WebException)
             {

@@ -11,8 +11,8 @@
 namespace EstimoteBeacons.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\jensie\\Desktop\\EstimoteBeacons\\EstimoteBeacons\\EstimoteBeacons\\Views\\MyN" +
-        "avigationPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Sven\\Desktop\\MobieleApp\\EstimoteBeacons\\EstimoteBeacons\\Views\\MyNavigati" +
+        "onPage.xaml")]
     public partial class MyNavigationPage : global::Xamarin.Forms.NavigationPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

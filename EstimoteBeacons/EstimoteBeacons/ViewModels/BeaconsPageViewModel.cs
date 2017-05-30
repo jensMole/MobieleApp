@@ -37,7 +37,7 @@ namespace EstimoteBeacons.ViewModels
             if (App.currentSequenceNumber < beaconsInCurrentRoute.Count - 1)
             {
                 App.currentSequenceNumber++;
-                Beacons = "Go to beacon: " + beaconsInCurrentRoute[App.currentSequenceNumber].Beacon_Id;
+                Beacons = "Ga naar: " + beaconsInCurrentRoute[App.currentSequenceNumber].Location_Ln;
             }
             else
             {

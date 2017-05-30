@@ -107,6 +107,8 @@ class MonoPackageManager_Resources {
 		"Microsoft.Practices.ServiceLocation.dll",
 		"Microsoft.Practices.Unity.dll",
 		"Newtonsoft.Json.dll",
+		"Octane.Xam.VideoPlayer.Android.dll",
+		"Octane.Xam.VideoPlayer.dll",
 		"Plugin.CurrentActivity.dll",
 		"Plugin.Permissions.Abstractions.dll",
 		"Plugin.Permissions.dll",

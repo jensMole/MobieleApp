@@ -14,6 +14,18 @@ Estimotes.ServiceReadyCallbackImpl, Estimotes;md56e06d980c628df001e1ceabdba45493
 Estimotes.ServiceReadyCallbackImpl, Estimotes, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56e06d980c628df001e1ceabdba454932.ServiceReadyCallbackImpl
 Estimotes.ServiceReadyCallbackImpl;md56e06d980c628df001e1ceabdba454932.ServiceReadyCallbackImpl
 estimotes.ServiceReadyCallbackImpl;md56e06d980c628df001e1ceabdba454932.ServiceReadyCallbackImpl
+Octane.Xam.VideoPlayer.Android.Widget.VideoView, Octane.Xam.VideoPlayer.Android;Octane.Xam.VideoPlayer.Android.Widget.VideoView
+Octane.Xam.VideoPlayer.Android.Widget.VideoView, Octane.Xam.VideoPlayer.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null;Octane.Xam.VideoPlayer.Android.Widget.VideoView
+Octane.Xam.VideoPlayer.Android.Widget.VideoView;Octane.Xam.VideoPlayer.Android.Widget.VideoView
+Octane.Xam.VideoPlayer.Android.Widget.VideoView;Octane.Xam.VideoPlayer.Android.Widget.VideoView
+Octane.Xam.VideoPlayer.Android.Views.View.VideoViewSavedState, Octane.Xam.VideoPlayer.Android;md5d3266ca695227db39945f1efb2d2b4fa.VideoViewSavedState
+Octane.Xam.VideoPlayer.Android.Views.View.VideoViewSavedState, Octane.Xam.VideoPlayer.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null;md5d3266ca695227db39945f1efb2d2b4fa.VideoViewSavedState
+Octane.Xam.VideoPlayer.Android.Views.View.VideoViewSavedState;md5d3266ca695227db39945f1efb2d2b4fa.VideoViewSavedState
+octane.xam.videoplayer.android.views.view.VideoViewSavedState;md5d3266ca695227db39945f1efb2d2b4fa.VideoViewSavedState
+Octane.Xam.VideoPlayer.Android.Renderers.VideoPlayerRenderer, Octane.Xam.VideoPlayer.Android;md5e55ab16df45b0a7c111e51d413f35949.VideoPlayerRenderer
+Octane.Xam.VideoPlayer.Android.Renderers.VideoPlayerRenderer, Octane.Xam.VideoPlayer.Android, Version=1.2.3.0, Culture=neutral, PublicKeyToken=null;md5e55ab16df45b0a7c111e51d413f35949.VideoPlayerRenderer
+Octane.Xam.VideoPlayer.Android.Renderers.VideoPlayerRenderer;md5e55ab16df45b0a7c111e51d413f35949.VideoPlayerRenderer
+octane.xam.videoplayer.android.renderers.VideoPlayerRenderer;md5e55ab16df45b0a7c111e51d413f35949.VideoPlayerRenderer
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

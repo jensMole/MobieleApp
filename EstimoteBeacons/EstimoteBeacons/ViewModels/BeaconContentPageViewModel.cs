@@ -7,6 +7,7 @@ using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
+using Xamarin.Forms;
 
 namespace EstimoteBeacons.ViewModels
 {
@@ -19,12 +20,20 @@ namespace EstimoteBeacons.ViewModels
             _restService = restService;
         }
 
-        private string content;
-        public string BeaconContent
+        private string sourceUrl;
+        public string SourceUrl
         {
-            get { return content; }
-            set { SetProperty(ref content, value); }
+            get { return sourceUrl; }
+            set { SetProperty(ref sourceUrl, value); }
         }
+
+        private string title;
+        public string Title
+        {
+            get { return title; }
+            set { SetProperty(ref title, value); }
+        }
+
 
         public void OnNavigatedFrom(NavigationParameters parameters)
         {
@@ -43,28 +52,13 @@ namespace EstimoteBeacons.ViewModels
         {
             int route_id = -1;
             int beacon_id = -1;
-            if (parameters.ContainsKey("route_id"))
-            {
-                route_id = (int)parameters["route_id"];
-            }
-            if (parameters.ContainsKey("beacon_id"))
-            {
-                beacon_id = (int)parameters["beacon_id"];
-            }
-            if (parameters.ContainsKey("max_beacons"))
-            {
-                max_beacons = (int)parameters["max_beacons"];
-            }
-            BeaconContent = "Route: " + route_id + "- Beacon: " + beacon_id + "\r\n";
+            if (parameters.ContainsKey("route_id")) route_id = (int)parameters["route_id"];
+            if (parameters.ContainsKey("beacon_id")) beacon_id = (int)parameters["beacon_id"];
+            if (parameters.ContainsKey("max_beacons")) max_beacons = (int)parameters["max_beacons"];
 
             ObservableCollection<Content> content = await _restService.GetContentForBeaconInRoute(route_id, beacon_id);
-
-            BeaconContent += "Content: ";
-            foreach(var c in content)
-            {
-                BeaconContent += "\r\n" + c.Content_Txt;
-                BeaconContent += "\r\n" + c.Metatype_Sn;
-            }
+            
+            SourceUrl = content[0].Content_Txt;
         }
     }
 }
