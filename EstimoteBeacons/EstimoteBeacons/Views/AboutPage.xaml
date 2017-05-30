@@ -7,7 +7,7 @@
     <ContentPage.Content>
         <StackLayout>
             <Label HorizontalTextAlignment="Center" FontSize="Large" Text="Info IBeacons App" />
-            <Label FontSize="Medium" Text="Op de hoofdpagina van de app bevinden zich alle routes. Als men een route wilt starten tikt men op een route en daarna op de knop start. De applicatie gaat opzoek naar de eerste beacon in deze route om vervolgens de content die aan deze beacon gekoppeld is te tonen aan de gebruiker."/>
+            <Label Margin="0px 10px 0px 10px" FontSize="Medium" Text="Op de hoofdpagina van de app bevinden zich alle routes. Als men een route wilt starten tikt men op een route en daarna op de knop start. De applicatie gaat opzoek naar de eerste beacon in deze route om vervolgens de content die aan deze beacon gekoppeld is te tonen aan de gebruiker."/>
             <Label FontSize="Small" Text="App ontwikkeld door Sven, Jens en Jo."/>
         </StackLayout>
     </ContentPage.Content>
