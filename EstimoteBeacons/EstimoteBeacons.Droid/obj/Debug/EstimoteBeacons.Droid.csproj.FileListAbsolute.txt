@@ -889,3 +889,14 @@ C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Deb
 C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\res\drawable-xxhdpi\location.png
 C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\R.cs.flag
 C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\uploadflags.txt
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\bin\Debug\EstimoteBeacons.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\bin\Debug\EstimoteBeacons.Droid.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\EstimoteBeacons.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\EstimoteBeacons.Droid.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\jensie\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
