@@ -492,8 +492,8 @@ C:\Users\Sven\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\Estim
 C:\Users\Sven\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
 C:\Users\Sven\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Octane.Xam.VideoPlayer.dll
 C:\Users\Sven\Desktop\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Octane.Xam.VideoPlayer.xml
-C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll.config
+C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.dll
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\EstimoteBeacons.pdb
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.dll
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Acr.Settings.Interface.dll
@@ -547,7 +547,6 @@ C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Platfo
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csproj.App.config
-C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.App.xaml.g.cs
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.MainPage.xaml.g.cs
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.BeaconsPage.xaml.g.cs

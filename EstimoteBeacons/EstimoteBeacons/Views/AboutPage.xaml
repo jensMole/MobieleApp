@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
              prism:ViewModelLocator.AutowireViewModel="True"
-             x:Class="EstimoteBeacons.Views.AboutPage">
+             x:Class="EstimoteBeacons.Views.AboutPage"
+             Title="Over">
     <ContentPage.Content>
         <StackLayout>
             <Label HorizontalTextAlignment="Center" FontSize="Large" Text="Info IBeacons App" />

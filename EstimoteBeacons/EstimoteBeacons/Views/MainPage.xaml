@@ -7,12 +7,12 @@
              Title="Routes">
 
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="refresh" Order="Primary" Command="{Binding RefreshCommand}">
+        <ToolbarItem Text="vernieuw" Order="Primary" Command="{Binding RefreshCommand}">
             <ToolbarItem.Icon>
                 <OnPlatform x:TypeArguments="FileImageSource" iOS="ic_refresh.png" Android="refresh.png"/>
             </ToolbarItem.Icon>
         </ToolbarItem>
-        <ToolbarItem Text="About" Order="Secondary" Command="{Binding AboutCommand}}"/>
+        <ToolbarItem Text="Over" Order="Secondary" Command="{Binding AboutCommand}}"/>
     </ContentPage.ToolbarItems>
 
     <StackLayout HorizontalOptions="Center" VerticalOptions="Center">

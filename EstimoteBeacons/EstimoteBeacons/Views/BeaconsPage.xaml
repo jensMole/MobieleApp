@@ -3,10 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
              prism:ViewModelLocator.AutowireViewModel="True"
-             x:Class="EstimoteBeacons.Views.BeaconsPage">
+             x:Class="EstimoteBeacons.Views.BeaconsPage"
+             Title= "Beacon zoeken...">
   <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
         <ActivityIndicator Color="#E11D1D" IsVisible="{Binding Loading}" IsRunning="{Binding Loading}" />
         <Label Text="{Binding Beacons}" />
-        <Button Text="Next beacon" Command="{Binding NextBeaconCommand}"/>
+        <!--<Button Text="Next beacon" Command="{Binding NextBeaconCommand}"/>-->
     </StackLayout>
 </ContentPage>

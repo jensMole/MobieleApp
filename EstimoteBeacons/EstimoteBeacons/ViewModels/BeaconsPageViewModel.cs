@@ -28,23 +28,24 @@ namespace EstimoteBeacons.ViewModels
             this.navigationService = navigationService;
             this.dialogService = dialogService;
             this.restService = restService;
-            NextBeaconCommand = new DelegateCommand(() => NextBeacon());
+            //NextBeaconCommand = new DelegateCommand(() => NextBeacon());
         }
 
-        private void NextBeacon()
-        {
-            Beacons = "";
-            if (App.currentSequenceNumber < beaconsInCurrentRoute.Count - 1)
-            {
-                App.currentSequenceNumber++;
-                Beacons = "Ga naar: " + beaconsInCurrentRoute[App.currentSequenceNumber].Location_Ln;
-            }
-            else
-            {
-                Beacons = "last beacon reached";
-            }
+        //private void NextBeacon()
+        //{
+        //    Beacons = "";
+        //    if (App.currentSequenceNumber < beaconsInCurrentRoute.Count - 1)
+        //    {
+        //        App.currentSequenceNumber++;
+        //        Beacons = "Ga naar: " + beaconsInCurrentRoute[App.currentSequenceNumber].Location_Ln;
+        //    }
+        //    else
+        //    {
+        //        Beacons = "Route is afgelopen";
+        //        Loading = false;
+        //    }
             
-        }
+        //}
 
         public ICommand NextBeaconCommand { get; private set; }
 
@@ -90,7 +91,7 @@ namespace EstimoteBeacons.ViewModels
                 {
                     if (await CrossPermissions.Current.ShouldShowRequestPermissionRationaleAsync(Permission.Location))
                     {
-                        await dialogService.DisplayAlertAsync("Need location", "This app needs location services", "OK");
+                        await dialogService.DisplayAlertAsync("Locatie nodig", "Deze app heeft locatie-services nodig.", "OK");
                     }
 
                     var results = await CrossPermissions.Current.RequestPermissionsAsync(new[] { Permission.Location });
@@ -123,7 +124,7 @@ namespace EstimoteBeacons.ViewModels
                 }
                 else if (status != PermissionStatus.Unknown)
                 {
-                    await dialogService.DisplayAlertAsync("Location Denied", "Can not continue, try again.", "OK");
+                    await dialogService.DisplayAlertAsync("Locatie geweigerd", "Kan niet verder gaan, probeer opnieuw.", "OK");
                 }
             }
             catch (Exception ex)
