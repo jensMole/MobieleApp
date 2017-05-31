@@ -14,6 +14,8 @@ namespace EstimoteBeacons.ViewModels
     public class BeaconContentPageViewModel : BindableBase, INavigationAware
     {
         private int max_beacons = 0;
+        private int route_id = -1;
+        private int beacon_id = -1;
         private IRestService _restService;
         public BeaconContentPageViewModel(IRestService restService)
         {
@@ -27,14 +29,41 @@ namespace EstimoteBeacons.ViewModels
             set { SetProperty(ref sourceUrl, value); }
         }
 
-        private string title;
-        public string Title
+        private bool webViewVisible;
+        public bool WebViewVisible
         {
-            get { return title; }
-            set { SetProperty(ref title, value); }
+            get { return webViewVisible; }
+            set { SetProperty(ref webViewVisible, value); }
         }
 
+        private bool imageVisible;
+        public bool ImageVisible
+        {
+            get { return imageVisible; }
+            set { SetProperty(ref imageVisible, value); }
+        }
 
+        private string imageSource;
+        public string ImageSource
+        {
+            get { return imageSource; }
+            set { SetProperty(ref imageSource, value); }
+        }
+
+        private string htmlSource;
+        public string HTMLSource
+        {
+            get { return htmlSource; }
+            set { SetProperty(ref htmlSource, value); }
+        }
+
+        private bool htmlWebViewVisible;
+        public bool HTMLWebViewVisible
+        {
+            get { return htmlWebViewVisible; }
+            set { SetProperty(ref htmlWebViewVisible, value); }
+        }
+        
         public void OnNavigatedFrom(NavigationParameters parameters)
         {
             if (App.currentSequenceNumber < max_beacons)
@@ -43,22 +72,37 @@ namespace EstimoteBeacons.ViewModels
             }
         }
 
-        public void OnNavigatedTo(NavigationParameters parameters)
+        public async void OnNavigatedTo(NavigationParameters parameters)
         {
+            ObservableCollection<Content> contentCollection = await _restService.GetContentForBeaconInRoute(route_id, beacon_id);
+            Content content = contentCollection[0];
 
+            if (content.Metatype_Sn == "link" || content.Metatype_Sn == "audio")
+            {
+                WebViewVisible = true;
+                SourceUrl = content.Content_Txt;
+            }
+            else if (content.Metatype_Sn == "image")
+            {
+                ImageVisible = true;
+                ImageSource = content.Content_Txt;
+            }
+            else if (content.Metatype_Sn == "html")
+            {
+                HTMLWebViewVisible = true;
+                HTMLSource = content.Content_Txt;
+            }
         }
 
-        public async void OnNavigatingTo(NavigationParameters parameters)
+        public void OnNavigatingTo(NavigationParameters parameters)
         {
-            int route_id = -1;
-            int beacon_id = -1;
+            WebViewVisible = false;
+            ImageVisible = false;
+            HTMLWebViewVisible = false;
+
             if (parameters.ContainsKey("route_id")) route_id = (int)parameters["route_id"];
             if (parameters.ContainsKey("beacon_id")) beacon_id = (int)parameters["beacon_id"];
             if (parameters.ContainsKey("max_beacons")) max_beacons = (int)parameters["max_beacons"];
-
-            ObservableCollection<Content> content = await _restService.GetContentForBeaconInRoute(route_id, beacon_id);
-            
-            SourceUrl = content[0].Content_Txt;
         }
     }
 }

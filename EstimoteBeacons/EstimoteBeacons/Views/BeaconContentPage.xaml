@@ -3,7 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
              prism:ViewModelLocator.AutowireViewModel="True"
-             x:Class="EstimoteBeacons.Views.BeaconContentPage"
-             Title="{Binding Title}">
-    <WebView Source="{Binding SourceUrl}" />
+             x:Class="EstimoteBeacons.Views.BeaconContentPage">
+    <AbsoluteLayout>
+        <Image IsVisible="{Binding ImageVisible}" Source="{Binding ImageSource}" Aspect="AspectFit" AbsoluteLayout.LayoutBounds="1,1,1,1" AbsoluteLayout.LayoutFlags="All"/>
+        <WebView IsVisible="{Binding WebViewVisible}" Source="{Binding SourceUrl}" AbsoluteLayout.LayoutBounds="1,1,1,1" AbsoluteLayout.LayoutFlags="All"/>
+        <WebView IsVisible="{Binding HTMLWebViewVisible}" AbsoluteLayout.LayoutBounds="1,1,1,1" AbsoluteLayout.LayoutFlags="All">
+            <WebView.Source>
+                <HtmlWebViewSource Html="{Binding HTMLSource}" />
+            </WebView.Source>
+        </WebView>
+    </AbsoluteLayout>
 </ContentPage>

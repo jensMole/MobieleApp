@@ -4,8 +4,4 @@
     <ResultingAbi>armeabi-v7a</ResultingAbi>
     <SdkVersion>23</SdkVersion>
   </Device>
-  <Device id="R32F104ZBFN">
-    <ResultingAbi>armeabi-v7a</ResultingAbi>
-    <SdkVersion>22</SdkVersion>
-  </Device>
 </Devices>

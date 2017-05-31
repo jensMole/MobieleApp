@@ -91,15 +91,15 @@ namespace EstimoteBeacons.ViewModels
                 // Routes ophalen via de restService
                 ObservableCollection<Route> routes = await restService.GetRoutesAsync();
 
-                //if (routes != Routes)
-                //{
+                if (routes != Routes)
+                {
                     // Als de routes die ingeladen werden verschillend zijn van degenen die weergegeven worden refreshen we het lijstje, anders niet.
                     Routes.Clear();
                     foreach (Route r in routes)
                     {
                         Routes.Add(r);
                     }
-                //}
+                }
             }
             catch (HttpRequestException)
             {
