@@ -77,7 +77,7 @@ namespace EstimoteBeacons.ViewModels
             ObservableCollection<Content> contentCollection = await _restService.GetContentForBeaconInRoute(route_id, beacon_id);
             Content content = contentCollection[0];
 
-            if (content.Metatype_Sn == "link" || content.Metatype_Sn == "audio")
+            if (content.Metatype_Sn == "link" || content.Metatype_Sn == "audio" || content.Metatype_Sn == "video")
             {
                 WebViewVisible = true;
                 SourceUrl = content.Content_Txt;
