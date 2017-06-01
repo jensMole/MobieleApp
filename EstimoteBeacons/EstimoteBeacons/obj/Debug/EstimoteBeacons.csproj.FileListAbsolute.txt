@@ -556,3 +556,4 @@ C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.View
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.Views.AboutPage.xaml.g.cs
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.dll
 C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.pdb
+C:\git\MobieleApp\EstimoteBeacons\EstimoteBeacons\obj\Debug\EstimoteBeacons.csprojResolveAssemblyReference.cache

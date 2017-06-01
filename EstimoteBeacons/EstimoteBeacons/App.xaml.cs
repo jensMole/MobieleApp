@@ -15,18 +15,22 @@ namespace EstimoteBeacons
         {
             InitializeComponent();
             
+            // Naar de MainPage navigeren als de app op start
             NavigationService.NavigateAsync("MyNavigationPage/MainPage");
         }
 
         protected override void RegisterTypes()
         {
+            // Eigen NavigationPage registreren i.p.v default
             Container.RegisterTypeForNavigation<MyNavigationPage>();
+            // Alle pagina's registreren zodat er genavigeerd kan worden
             Container.RegisterTypeForNavigation<MainPage>();
             Container.RegisterTypeForNavigation<BeaconsPage>();
             Container.RegisterTypeForNavigation<RouteInfoPage>();
             Container.RegisterTypeForNavigation<BeaconContentPage>();
             Container.RegisterTypeForNavigation<AboutPage>();
 
+            // Rest service die we willen gebruiken registreren 
             Container.RegisterType<IRestService, RestService>();
         }
     }

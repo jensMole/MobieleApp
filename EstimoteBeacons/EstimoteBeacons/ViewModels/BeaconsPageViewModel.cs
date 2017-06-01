@@ -17,11 +17,16 @@ namespace EstimoteBeacons.ViewModels
 {
     public class BeaconsPageViewModel : BindableBase, INavigationAware
     {
+        // Variabele om de huidige route bij te houden
+        private Route currentRoute = null;
+        // Variabele om de beacons in de huidige route bij te houden
+        private ObservableCollection<Beacon> beaconsInCurrentRoute = null;
+
+        // We maken gebruik van NavigationService, PageDialogService en onze eigen RestService
+        // met Dependency Injection via de constructor
         private INavigationService navigationService;
         private IPageDialogService dialogService;
         private IRestService restService;
-        private Route currentRoute = null;
-        private ObservableCollection<Beacon> beaconsInCurrentRoute = null;
 
         public BeaconsPageViewModel(INavigationService navigationService, IPageDialogService dialogService, IRestService restService)
         {
@@ -47,8 +52,9 @@ namespace EstimoteBeacons.ViewModels
             
         //}
 
-        public ICommand NextBeaconCommand { get; private set; }
+        //public ICommand NextBeaconCommand { get; private set; }
 
+        // Binding Properties
         private string beacons;
         public string Beacons
         {
@@ -62,9 +68,11 @@ namespace EstimoteBeacons.ViewModels
             get { return loading; }
             set { SetProperty(ref loading, value); }
         }
+        // -----
 
         public void OnNavigatedFrom(NavigationParameters parameters)
         {
+            // Als we deze pagina verlaten stoppen we met naar beacons zoeken
             EstimoteManager.Instance.Ranged -= OnRanged;
             EstimoteManager.Instance.StopAllRanging();
         }
@@ -110,6 +118,7 @@ namespace EstimoteBeacons.ViewModels
                         {
                             return;
                         }
+                        // Laten zien naar welk beacon de gebruiker moet gaan
                         Beacons = "";
                         Beacons = "Ga naar: " + beaconsInCurrentRoute[App.currentSequenceNumber].Location_Ln;
                         // Als bluetooth aan staat beginnen we met scannen naar beacons
@@ -135,20 +144,27 @@ namespace EstimoteBeacons.ViewModels
 
         public void OnNavigatingTo(NavigationParameters parameters)
         {
+            // Als we beginnen aan een route resetten we het beacon nummer naar 0
             App.currentSequenceNumber = 0;
+            // We zetten de laad-animatie aan
             Loading = true;    
         }
 
         private void OnRanged(object sender, IEnumerable<IBeacon> foundBeacons)
         {
+            // Als er beacons gevonden werden doorlopen we al deze beacons
             foreach (var foundBeacon in foundBeacons)
             {
+                // Als de beacon die we zoeken bij deze beacons zit
                 if (beaconsInCurrentRoute[App.currentSequenceNumber].Beacon_Id == foundBeacon.Major)
                 {
+                    // Navigatieparameters opbouwen
                     var navParams = new NavigationParameters();
                     navParams.Add("route_id", currentRoute.Route_Id);
                     navParams.Add("beacon_id", beaconsInCurrentRoute[App.currentSequenceNumber].Beacon_Id);
                     navParams.Add("max_beacons", (beaconsInCurrentRoute.Count - 1));
+
+                    // Navigeren naar de contentpage om de content te laten zien die bij deze beacon in deze route hoort
                     navigationService.NavigateAsync("BeaconContentPage", navParams);
                 }
             }
