@@ -7,3 +7,7 @@
 jens: 9
 sven: 8
 jo: 8
+
+Jens Rood;
+Sven Oranje;
+Jo zwart.
