@@ -1,0 +1,9 @@
+1 jens - slide 1 tot en met 8 - inleiding en werking app
+2 sven - slide 9 tot en met 14 - opbouw app.xaml.cs en restservice en zijn methodes
+3 jo - slide 15 tot en met 22 - inleiding opbouw viewmodels + opbouw MainPageViewModel, RouteInfoPageViewModel en BeaconsPageViewModel 
+4 jens - slide 23 - opbouw BeaconContentPageViewModel
+5 sven - slide 24 en 25 - demo van de app + afsluiting
+
+jens: 9
+sven: 8
+jo: 8
